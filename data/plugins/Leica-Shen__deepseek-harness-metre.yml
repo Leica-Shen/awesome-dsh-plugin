@@ -1,0 +1,6 @@
+url: https://github.com/Leica-Shen/deepseek-harness-metre
+name: Leica-Shen/deepseek-harness-metre
+category: docs
+description:
+  en: 'Measurement-driven slide layout engine for DeepSeek Harness that measures text width, chooses line breaks, sources images, and audits page layout.'
+  zh: 'DeepSeek Harness 的度量驱动幻灯片排版引擎：测量字宽、选择断行、联网取图并审计页面版式。'

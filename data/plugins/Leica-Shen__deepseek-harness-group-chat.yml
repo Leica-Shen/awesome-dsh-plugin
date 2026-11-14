@@ -1,0 +1,6 @@
+url: https://github.com/Leica-Shen/deepseek-harness-group-chat
+name: Leica-Shen/deepseek-harness-group-chat
+category: workflow
+description:
+  en: 'Cross-session group chat for DeepSeek Harness with @alias routing, audited organizer delegation, and ambient or urgent delivery.'
+  zh: 'DeepSeek Harness 的跨会话群聊：支持 @别名路由、有审计的组织者子代理委派，以及 ambient/urgent 投递。'
